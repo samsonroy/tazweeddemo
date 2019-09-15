@@ -1,0 +1,6 @@
+{
+    "env": {
+        "ATLAS_PW":"nodejs-training",
+        "JWT_KEY":"secret"
+    }
+}
